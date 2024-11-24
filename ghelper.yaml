@@ -1,0 +1,9 @@
+author: garen mao
+license: Apache License 2.0
+overite:
+  - source: /Users/garen/test/test1/test.txt
+    target: /Users/garen/test/test2/test.txt
+  - source: /Users/garen/test/test1/test2.txt
+    target: /Users/garen/test/test2/test2.txt
+  - source: /Users/garen/test/test1/test.txt
+    target: /Users/garen/test/test2/test3.txt
